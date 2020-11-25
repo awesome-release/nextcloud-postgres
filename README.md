@@ -1,3 +1,11 @@
+## Verified to work in Release
+This project was derived from the apache-php project in [awesome-compose](https://github.com/docker/awesome-compose)
+
+No modifications were necessary for this project to run within Release.
+
+To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
+
+
 ## Nextcloud with Postgres database
 This example defines one of the base setups for Nextcloud. More details on how to
 further customize the installation and the compose file can be found on the
