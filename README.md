@@ -1,5 +1,5 @@
 ## Verified to work in Release
-This project was derived from the apache-php project in [awesome-compose](https://github.com/docker/awesome-compose)
+This project was derived from the nextcloud-postgres project in [awesome-compose](https://github.com/docker/awesome-compose)
 
 No modifications were necessary for this project to run within Release.
 
